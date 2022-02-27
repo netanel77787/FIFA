@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "998623830938",
+    "project_id": "my-application-a3653",
+    "storage_bucket": "my-application-a3653.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998623830938:android:b32e9bbc1b99f95f295023",
+        "android_client_info": {
+          "package_name": "edu.netanelma.FIFA"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998623830938-s2shnok1j0aknvud2csfh13aspmj67pu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBObe_aivQW_T6G7e5E3JIfOWJGl5OyG9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998623830938-s2shnok1j0aknvud2csfh13aspmj67pu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
